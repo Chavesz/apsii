@@ -3,7 +3,7 @@ public class Main {
         Veiculo meuCarro = new Carro();
         Veiculo minhaBicicleta = new Bicicleta();
 
-        
+
         Pista pista = new Pista();
         pista.iniciarCorrida(meuCarro);
         pista.iniciarCorrida(minhaBicicleta);
